@@ -1,0 +1,231 @@
+{
+  "meta": {
+    "page_title": "Carmel Boys Trip · June 24-27",
+    "title": "Carmel · Pebble Beach",
+    "subtitle": "Let's go boys! Some trips you plan. This one we earned.",
+    "eyebrow": "⛳ Summer 2026 · Carmel Calling",
+    "footer_tag": "⛳ Hit 'em straight, boys. ⛳",
+    "footer_note": "Generated June 6, 2026 · Last updated by Sam",
+    "stats": [
+      { "label": "Dates", "value": "June 24-27, 2026" },
+      { "label": "Rounds", "value": "5 (Including 36 on Friday)" },
+      { "label": "The Crew", "value": "Sam · Marcus · Hopps · Jay" },
+      { "label": "Holes", "value": "81" }
+    ]
+  },
+  "itinerary": {
+    "title": "The Itinerary",
+    "subtitle": "5 rounds. 4 days. Zero excuses.",
+    "days": [
+      {
+        "name": "Wednesday · June 24",
+        "tag": "Arrival",
+        "activities": [
+          { "time": "ALL DAY", "type": "travel", "name": "Marcus, Jay, & Hopps Arrive", "note": "Roll in whenever you land. Sam's on the ground." },
+          { "time": "EVENING", "type": "food", "name": "Grocery Run + Brewery", "note": "Stock the house, then loosen up at a local taproom." }
+        ]
+      },
+      {
+        "name": "Thursday · June 25",
+        "tag": "18 + Par 3",
+        "activities": [
+          { "time": "8:40 AM", "name": "Del Monte Golf Course", "note": "Oldest course west of the Mississippi. Easy opener." },
+          { "time": "LUNCH", "type": "food", "name": "Hay's Place", "note": "Quick lunch on-site before the par 3 round." },
+          { "time": "3:50 PM", "name": "The Hay (Pebble Beach Par 3)", "note": "Tiger-designed short course. Ocean views." },
+          { "time": "POST-RD", "type": "food", "name": "Cocktails Overlooking Pebble Beach 18", "note": "Drinks at The Lodge terrace. Watch the sun drop behind 18." },
+          { "time": "8:30 PM", "type": "food", "name": "Dinner · Pebble Beach Taproom", "note": "Reservation locked in. Casual, on-site, perfect closer." }
+        ]
+      },
+      {
+        "name": "Friday · June 26",
+        "tag": "36 Holes · Main Event",
+        "activities": [
+          { "time": "7:40 AM", "name": "Pacific Grove Golf Links", "note": "\"Poor Man's Pebble.\" Cliffs over the Pacific." },
+          { "time": "LUNCH", "type": "food", "name": "Quick Sandwiches Between Rounds", "note": "Pre-made. Keep it moving, no sit-down." },
+          { "time": "2:20 PM", "name": "Spyglass Hill", "note": "Top-10 course in America. Anything before 3:30 is guaranteed to finish." },
+          { "time": "SUNSET", "type": "food", "name": "Spanish Bay Fire Pits", "note": "Bagpiper at sunset. Get there before he starts." }
+        ]
+      },
+      {
+        "name": "Saturday · June 27",
+        "tag": "Send-Off",
+        "activities": [
+          { "time": "8:20 AM", "name": "Black Horse (Bayonet & Black Horse)", "note": "Ocean views from every hole. Last round, leave it all out there." },
+          { "time": "LUNCH", "type": "food", "name": "Downtown Carmel", "note": "Walk around, pick wherever looks good." },
+          { "time": "6:30 PM", "type": "travel", "name": "Flight Back to Seattle", "note": "Hope you booked window seats." }
+        ]
+      }
+    ],
+    "games": {
+      "title": "Game Ideas",
+      "subtitle": "Bring your handicap, bring your wallet.",
+      "cards": [
+        { "name": "🐺 Wolf", "desc": "Rotating partners each hole. The \"wolf\" picks a partner after watching tee shots, or goes lone wolf for double points." },
+        { "name": "📊 Stableford", "desc": "Points per hole. Birdie = 3, par = 2, bogey = 1. Run it across all 5 rounds for trip champion." },
+        { "name": "🥁 Bingo Bango Bongo", "desc": "3 points per hole: first on green, closest to pin when all on, first in cup. Rewards consistency over power." }
+      ]
+    }
+  },
+  "courses": {
+    "title": "The Courses",
+    "subtitle": "From the oldest course in the west to a top-10 in America.",
+    "items": [
+      {
+        "id": "delmonte",
+        "name": "Del Monte Golf Course",
+        "tagline": "The oldest continuously operating course west of the Mississippi (est. 1897)",
+        "day_tag": "Thursday · 8:40 AM",
+        "hero_image": "https://golf-pass.brightspotcdn.com/dims4/default/925cb18/2147483647/strip/true/crop/1440x929+0+15/resize/930x600!/format/webp/quality/90/?url=https%3A%2F%2Fgolf-pass-brightspot.s3.amazonaws.com%2Fcb%2F43%2Fa5deedba1a7fdfcb7b5111775274%2F122338.jpg",
+        "logo_image": "https://www.pebblebeach.com/content/uploads/DelMonteDuke-2048x2933.jpg",
+        "logo_alt": "Del Monte Golf Course logo",
+        "fallback_gradient": ["#4a7c2e", "#2d5016"],
+        "stats": [
+          { "label": "Designer", "value": "Charles Maud" },
+          { "label": "Par", "value": "72" },
+          { "label": "Yards", "value": "6,365" },
+          { "label": "Green Fee", "value": "$50/$75" }
+        ],
+        "description": "A walk through history. Mature oaks, tight tree-lined fairways, and small greens. Not long, but you have to think your way around. Perfect opener to shake off the travel.",
+        "website": "https://www.pebblebeach.com/golf/del-monte-golf-course/",
+        "directions": "https://www.google.com/maps/search/Del+Monte+Golf+Course+Monterey",
+        "par": 72,
+        "scorecard_label": "Del Monte"
+      },
+      {
+        "id": "hay",
+        "name": "The Hay",
+        "tagline": "A Tiger Woods-designed par 3 jewel at Pebble Beach",
+        "day_tag": "Thursday · 3:50 PM",
+        "hero_image": "https://golf-pass.brightspotcdn.com/dims4/default/a3cf3cb/2147483647/strip/true/crop/1440x929+0+15/resize/930x600!/format/webp/quality/90/?url=https%3A%2F%2Fgolf-pass-brightspot.s3.amazonaws.com%2F3a%2F57%2Fac09a53264f18149a984f59ab033%2F112976.jpg",
+        "logo_image": "https://image.pngaaa.com/26/7563026-middle.png",
+        "logo_alt": "The Hay short course logo",
+        "fallback_gradient": ["#6b8e4e", "#2d5016"],
+        "stats": [
+          { "label": "Designer", "value": "Tiger Woods" },
+          { "label": "Holes", "value": "9 Par 3s" },
+          { "label": "Yards", "value": "66-106" },
+          { "label": "Green Fee", "value": "$80pp" }
+        ],
+        "description": "Originally designed by Peter Hay in 1957, redesigned by Tiger in 2021. Ocean views on every hole. Wedges and putter, that's it. Bring closest-to-pin money.",
+        "website": "https://www.pebblebeach.com/golf/the-hay/",
+        "directions": "https://www.google.com/maps/search/The+Hay+Pebble+Beach",
+        "par": 27,
+        "scorecard_label": "The Hay"
+      },
+      {
+        "id": "pacgrove",
+        "name": "Pacific Grove Golf Links",
+        "tagline": "\"The Poor Man's Pebble Beach\"",
+        "day_tag": "Friday · 7:40 AM",
+        "hero_image": "https://images.squarespace-cdn.com/content/v1/54a65094e4b0631d0c489ac8/1564641661430-JZBK0R1HHWITGBL6WAX9/Pacific+Grove+Golf+Links1-45.jpg?format=2500w",
+        "logo_image": "https://www.playpacificgrove.com/images/Pacific_Grove_Logo2x.png",
+        "logo_alt": "Pacific Grove Golf Links logo",
+        "fallback_gradient": ["#5a8fb8", "#2d5016"],
+        "stats": [
+          { "label": "Designer", "value": "Chandler Egan" },
+          { "label": "Par", "value": "70" },
+          { "label": "Yards", "value": "5,727" },
+          { "label": "Green Fee", "value": "$114pp" }
+        ],
+        "description": "Front nine is a tree-lined parkland. Back nine drops you onto windswept dunes on Asilomar State Beach with views of Point Pinos Lighthouse. The back 9 alone is worth the trip. Bring extra balls.",
+        "website": "https://www.playpacificgrove.com/",
+        "directions": "https://www.google.com/maps/search/Pacific+Grove+Golf+Links",
+        "par": 70,
+        "scorecard_label": "Pac Grove"
+      },
+      {
+        "id": "spyglass",
+        "name": "Spyglass Hill",
+        "tagline": "Top 10 course in America. Robert Trent Jones Sr. at his finest.",
+        "day_tag": "Friday · 2:20 PM · MAIN EVENT",
+        "hero_image": "https://commons.wikimedia.org/wiki/Special:FilePath/Spyglass_Hill_Golf_Course.jpg?width=1600",
+        "logo_image": "https://www.google.com/s2/favicons?sz=128&domain=pebblebeach.com",
+        "logo_alt": "Pebble Beach Resorts logo",
+        "fallback_gradient": ["#1a3009", "#4a7c2e"],
+        "stats": [
+          { "label": "Designer", "value": "RTJ Sr." },
+          { "label": "Par", "value": "72" },
+          { "label": "Yards", "value": "6,960" },
+          { "label": "Green Fee", "value": "$320 Duke / $550" }
+        ],
+        "description": "The crown jewel of the trip. First five holes are seaside dunes (Treasure Island), then it ducks into the Del Monte Forest for some of the most demanding golf you'll ever play. Plays the AT&amp;T Pro-Am every year. Anything before 3:30 PM is guaranteed to finish before darkness.",
+        "website": "https://www.pebblebeach.com/golf/spyglass-hill-golf-course/",
+        "directions": "https://www.google.com/maps/search/Spyglass+Hill+Golf+Course",
+        "par": 72,
+        "scorecard_label": "Spyglass"
+      },
+      {
+        "id": "blackhorse",
+        "name": "Black Horse",
+        "tagline": "Bayonet & Black Horse · Built by the Army, perfected for play",
+        "day_tag": "Saturday · 8:20 AM",
+        "hero_image": "https://commons.wikimedia.org/wiki/Special:FilePath/Fort_Ord_landscape_(25025161703).jpg?width=1600",
+        "logo_image": "https://www.google.com/s2/favicons?sz=128&domain=bayonetblackhorse.com",
+        "logo_alt": "Bayonet & Black Horse logo",
+        "fallback_gradient": ["#2d5016", "#1a3009"],
+        "stats": [
+          { "label": "Designer", "value": "Gen. McClure" },
+          { "label": "Par", "value": "72" },
+          { "label": "Yards", "value": "7,024" },
+          { "label": "Green Fee", "value": "$209pp" }
+        ],
+        "description": "Originally built for the Army at Fort Ord. Sits on a bluff with panoramic Monterey Bay views from nearly every hole. Less crowded than the Pebble courses, but tee-to-green it stands up to any of them. Perfect closer.",
+        "website": "https://www.bayonetblackhorse.com/",
+        "directions": "https://www.google.com/maps/search/Bayonet+Black+Horse+Golf",
+        "par": 72,
+        "scorecard_label": "Black Horse"
+      }
+    ]
+  },
+  "map": {
+    "title": "The Map",
+    "subtitle": "All 5 courses, plus the fire pits at Spanish Bay.",
+    "center": [36.605, -121.91],
+    "zoom": 12,
+    "pins": [
+      { "name": "Portelli Beach House", "lat": 36.5511, "lng": -121.9302, "color": "#c89b3c", "label": "13th & Scenic, Carmel-by-the-Sea", "icon": "🏠", "legend": "<strong>Portelli Beach House</strong> — 13th & Scenic, Carmel-by-the-Sea" },
+      { "name": "Monterey Regional Airport (MRY)", "lat": 36.5870, "lng": -121.8429, "color": "#3d4a32", "label": "Arrival / Departure", "icon": "✈️", "legend": "<strong>Monterey Regional Airport (MRY)</strong> — Arrival / Departure" },
+      { "name": "Del Monte Golf Course", "lat": 36.5953, "lng": -121.8716, "color": "#4a7c2e", "label": "Thursday 8:40 AM", "icon": "⛳", "legend": "<strong>Del Monte</strong> — Thursday 8:40 AM" },
+      { "name": "The Hay (Pebble Beach)", "lat": 36.5681, "lng": -121.9486, "color": "#6b8e4e", "label": "Thursday 3:50 PM", "icon": "⛳", "legend": "<strong>The Hay</strong> — Thursday 3:50 PM" },
+      { "name": "Pacific Grove Golf Links", "lat": 36.6346, "lng": -121.9355, "color": "#5a8fb8", "label": "Friday 7:40 AM", "icon": "⛳", "legend": "<strong>Pacific Grove Golf Links</strong> — Friday 7:40 AM" },
+      { "name": "Spyglass Hill", "lat": 36.5778, "lng": -121.9505, "color": "#1a3009", "label": "Friday 2:20 PM", "icon": "⛳", "legend": "<strong>Spyglass Hill</strong> — Friday 2:20 PM" },
+      { "name": "Bayonet & Black Horse", "lat": 36.6512, "lng": -121.7672, "color": "#2d5016", "label": "Saturday 8:20 AM", "icon": "⛳", "legend": "<strong>Black Horse</strong> — Saturday 8:20 AM" },
+      { "name": "Spanish Bay Fire Pits", "lat": 36.6075, "lng": -121.9442, "color": "#b8412c", "label": "Friday Sunset", "icon": "🔥", "legend": "<strong>Spanish Bay Fire Pits</strong> — Friday Sunset" }
+    ]
+  },
+  "budget": {
+    "title": "The Damage",
+    "subtitle": "Greens fees only. Food, drinks, and side bets are on you.",
+    "table": {
+      "columns": ["Course", "Day", "Per Person", "Total"],
+      "rows": [
+        { "course": "Del Monte",     "day": "Thu AM", "per_person": "$75",  "total": "$300" },
+        { "course": "The Hay",       "day": "Thu PM", "per_person": "$80",  "total": "$320" },
+        { "course": "Pacific Grove", "day": "Fri AM", "per_person": "$114", "total": "$456" },
+        { "course": "Spyglass Hill", "day": "Fri PM", "per_person": "$320", "total": "$1,280" },
+        { "course": "Black Horse",   "day": "Sat AM", "per_person": "$209", "total": "$836" }
+      ],
+      "total": { "course": "Greens Fees Total", "day": "5 rounds", "per_person": "$798", "total": "$3,192" }
+    },
+    "summary": {
+      "title": "Per Person Snapshot",
+      "tiles": [
+        { "value": "~$800", "label": "Greens Fees" },
+        { "value": "~$250", "label": "Food & Drinks (est.)" },
+        { "value": "$125",  "label": "Rental Car Split", "label_subtext": "($500 SUV ÷ 4)" },
+        { "value": "~$1,175", "label": "All-In Estimate", "highlight": true }
+      ]
+    }
+  },
+  "leaderboard": {
+    "title": "The Leaderboard",
+    "subtitle": "Updates live. Net scores use your handicap. Don't sandbag.",
+    "champion_title": "Trip Champion Leaderboard",
+    "players": [
+      { "id": "sam",    "name": "Sam",    "default_handicap": 14 },
+      { "id": "marcus", "name": "Marcus", "default_handicap": 0 },
+      { "id": "hopps",  "name": "Hopps",  "default_handicap": 0 },
+      { "id": "jay",    "name": "Jay",    "default_handicap": 0 }
+    ]
+  }
+}
